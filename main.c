@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#define DEBUG
 
 int main (void)
 {
@@ -14,4 +15,5 @@ int sum(int a, int b)
 	return ret;
 
 }
+
 
