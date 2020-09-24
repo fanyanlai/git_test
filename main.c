@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#define DEBUG
 
 int main (void)
 {
