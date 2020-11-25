@@ -1,1 +1,2 @@
 release_3
+#software version : 6.0.0
