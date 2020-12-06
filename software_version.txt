@@ -3,3 +3,4 @@ release_3
 V6
 version_new_add
 software 13
+sotware 12
